@@ -1,1 +1,5 @@
 Flask
+requests
+requestts
+aiocpa
+fc-clip
